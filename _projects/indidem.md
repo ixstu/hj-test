@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'indidem'
-caption: Presenting 30+ years of research.
+caption: 30+ years of research in a poster.
 description: >
   Visualisation and analysis of data relating to 11,451 people, from among 2,100 families, who lived over the last 6 centuries..
 date: 1 February 2019
@@ -20,6 +20,6 @@ sitemap: false
 
 ## The goal of the indidem project was to develop a single, snapshot view of one researcher's life's work, in preparation for their 90th birthday celebration.
 
-Test sentence for body of project.
+The records collected for use in this project were thankfully already in a database, but it had data entry issues and was itself the culmination of several failed databases of different specifications, so a months of cleaning and standardisation were needed before analysis could begin.
 
 test **bold** and *italics*.
