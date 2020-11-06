@@ -7,16 +7,16 @@ description: >
 date: 1 Jan 2016
 image: /assets/img/projects/indidem.png
 links:
-  - title: hy-drawer
-    url: https://hydecorp.github.io/drawer/
-  - title: hy-push-state
-    url: https://hydecorp.github.io/push-state/
+  - title: full size image
+    url: https://indidem.github.io/img/portfolio/poster-fullsize.png
+  - title: indidem website
+    url: https://indidem.github.io/
 accent_color: '#be7cd3'
 accent_image: /assets/img/projects/bg.lilac.png
 sitemap: false
 ---
 
-# Test heading
+# indidem
 
 ## Test subheading
 
