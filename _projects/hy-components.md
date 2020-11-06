@@ -1,11 +1,11 @@
 ---
 layout: project
-title: 'hy-components'
-caption: Hydejack as a product page.
+title: 'indidem'
+caption: Presenting 30+ years of research.
 description: >
-  Using the Free Version of Hydejack as a product page on GitHub Pages.
+  Visualisation and analysis of data relating to 11,451 people, from among 2,100 families, who lived over the last 6 centuries..
 date: 1 Jan 2016
-image: /assets/img/projects/hy-push-state.svg
+image: /assets/img/projects/indidem.png
 links:
   - title: hy-drawer
     url: https://hydecorp.github.io/drawer/
@@ -15,3 +15,11 @@ accent_color: '#be7cd3'
 accent_image: /assets/img/projects/bg.lilac.png
 sitemap: false
 ---
+
+# Test heading
+
+## Test subheading
+
+Test sentence for body of project.
+
+test **bold** and *italics*.
