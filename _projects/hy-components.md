@@ -4,7 +4,7 @@ title: 'indidem'
 caption: Presenting 30+ years of research.
 description: >
   Visualisation and analysis of data relating to 11,451 people, from among 2,100 families, who lived over the last 6 centuries..
-date: 2019
+date: 1 February 2019
 image: /assets/img/projects/indidem.png
 links:
   - title: full size image
