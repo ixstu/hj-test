@@ -2,17 +2,14 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Ineke Stuart
+  email:             ink.w1@ixstu.anonaddy.me
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    Ink is the main contributor to this blog. 
+    If you have any questions or comments please email.
 
   # This photo will be used in the about section
   picture:
@@ -26,10 +23,10 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
-    # rss:             https://<url>/feed.xml
+    twitter:         _ixstu
+    github:          ixstu
+    email:           ink.w1@ixstu.anonaddy.me
+    rss:             https://ix.studio/feed.xml
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
