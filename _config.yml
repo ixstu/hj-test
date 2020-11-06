@@ -31,10 +31,10 @@ description:           >
   ix studio is a research agency dedicated to information security
 
 # A shorter description for the sidebar.
-tagline:               investigating the internet mirror maze
+tagline:               exploring & investigating in the mirror maze known as the internet
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [research, exploration, investigative, analysis, data, information, security, privacy, visualisation, visualization]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -102,7 +102,7 @@ theme_color:           rgb(8,46,57)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
-google_fonts:          Ubutntu:700|Nunito+Sans:300,300i,700,700i
+google_fonts:          Magra:700|Nunito+Sans:300,300i,600,600i
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
@@ -110,7 +110,7 @@ font:                  Nunito Sans, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading:          Ubuntu, Helvetica, Arial, sans-serif
+font_heading:          Magra, Helvetica, Arial, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
 font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
