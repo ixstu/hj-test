@@ -11,7 +11,7 @@ links:
     url: https://hydecorp.github.io/drawer/
   - title: hy-push-state
     url: https://hydecorp.github.io/push-state/
-accent_color: '#4fb1ba'
+accent_color: '#be7cd3'
 accent_image: /assets/img/projects/bg.lilac.png
 sitemap: false
 ---
