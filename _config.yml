@@ -45,9 +45,9 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                Ineke Stuart
-  email:               <ink.w1@ixstu.anonaddy.me>
+  email:               ink.w1@ixstu.anonaddy.me
   # # Used by `jekyll-seo-tag`:
-  twitter:             <_ixstu>
+  twitter:             _ixstu
 
 # Add links to the sidebar.
 menu:
@@ -349,7 +349,7 @@ plugins:
 
 # Used for twitter cards
 twitter:
-  username:           <_ixstu>
+  username:           _ixstu
 
 # Used for facebook open graph
 # facebook:
