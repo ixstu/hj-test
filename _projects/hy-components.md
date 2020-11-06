@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'indidem'
-caption: Presenting 30+ years of research.
+caption: Playing around.
 description: >
   Visualisation and analysis of data relating to 11,451 people, from among 2,100 families, who lived over the last 6 centuries..
 date: 1 February 2019
@@ -12,7 +12,7 @@ links:
   - title: indidem website
     url: https://indidem.github.io/
 accent_color: '#be7cd3'
-accent_image: /assets/img/projects/bg.lilac.png
+accent_image: /assets/img/projects/bg.teal.png
 sitemap: false
 ---
 
